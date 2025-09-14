@@ -1,0 +1,1 @@
+{"corridors": [], "suppressed_below_k": 5, "meta": {"generated_at": "2025-09-14T17:32:47Z", "data_version": "trips_csv_v1", "query": {"bbox": [71.35, 51.06, 71.5, 51.11], "top_n": 5, "simplify_tolerance_m": 50}, "privacy": {"k_anon": 5, "epsilon": null, "suppressed": 0}, "speed_unit": "km/h", "unit_detection_method": "auto-p95", "timings_ms": {}}}

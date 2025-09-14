@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Venvs and caches
+.venv/
+.uv/
+.poetry/
+.envrc
+
+# Git
+.git/
+.gitignore
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# Data and logs
+*.log
+*.sqlite
+*.db
+*.db-journal
+
+# Node/Frontend
+node_modules/
+
+# Tests artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Misc
+.DS_Store
+Thumbs.db
